@@ -2,7 +2,8 @@
   "World": {
     "Crios.wld": false,
     "Nova_Crios.wld": true,
-    "Small.wld": false
+    "Small.wld": false,
+    "ok.wld": false
   },
   "Player": {
     "Lou2.plr": true

@@ -11,11 +11,11 @@
   "VolumeAmbient": 0.04511278,
   "VolumeMusic": 0.0375939831,
   "UseExperimentalFeatures": false,
-  "Fullscreen": false,
-  "WindowMaximized": true,
+  "Fullscreen": true,
+  "WindowMaximized": false,
   "WindowBorderless": false,
-  "DisplayWidth": 1366,
-  "DisplayHeight": 716,
+  "DisplayWidth": 1280,
+  "DisplayHeight": 768,
   "GraphicsQuality": 0,
   "BackgroundEnabled": true,
   "FrameSkipMode": 1,
@@ -43,9 +43,9 @@
   "UseHeatDistortion": true,
   "WaveQuality": 3,
   "MouseColor": {
-    "R": 255,
-    "G": 50,
-    "B": 95
+    "R": 213,
+    "G": 7,
+    "B": 7
   },
   "MouseBorderColor": {
     "R": 0,

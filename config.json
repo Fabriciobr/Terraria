@@ -12,7 +12,7 @@
   "VolumeMusic": 0.0375939831,
   "UseExperimentalFeatures": false,
   "Fullscreen": true,
-  "WindowMaximized": true,
+  "WindowMaximized": false,
   "WindowBorderless": false,
   "DisplayWidth": 1280,
   "DisplayHeight": 768,

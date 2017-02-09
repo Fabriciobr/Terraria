@@ -4,7 +4,9 @@
     "Nova_Crios.wld": true,
     "Small.wld": false,
     "ok.wld": false,
-    "lumber.wld": false
+    "lumber.wld": false,
+    "heart.wld": false,
+    "large.wld": false
   },
   "Player": {
     "Lou2.plr": true

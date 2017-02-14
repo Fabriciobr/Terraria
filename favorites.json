@@ -1,9 +1,9 @@
 {
   "World": {
     "Crios.wld": false,
-    "Nova_Crios.wld": true,
+    "Nova_Crios.wld": false,
     "Small.wld": false,
-    "ok.wld": false,
+    "ok.wld": true,
     "lumber.wld": false,
     "heart.wld": false,
     "large.wld": false
